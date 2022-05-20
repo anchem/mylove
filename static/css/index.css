@@ -18,6 +18,11 @@
   justify-content: center;
 }
 
+.mycode-center {
+  top: 50%;
+  left: 25%;
+}
+
 .heart-bar,
 .item-heart {
   position: absolute;
@@ -25,7 +30,7 @@
 }
 
 .heart-bar {
-  top: 50%;
+  top: 20%;
   left: 50%;
   width: 200px;
   height: 200px;
@@ -55,4 +60,14 @@
 
 .bottom {
   transform: translate(0, 64px) rotate(45deg) scale(.9, .9);
+}
+
+.mycode {
+  position: absolute;
+  color: #4f5964;
+  font-family: tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+
+body {
+  background-color: #c0c7ce;
 }
