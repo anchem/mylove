@@ -19,14 +19,14 @@
 }
 
 .mycode-center {
-  top: 50%;
-  left: 25%;
+  top: 45%;
+  left: 30%;
 }
 
 .heart-bar,
 .item-heart {
   position: absolute;
-  animation-duration: .8s;
+  animation-duration: .6s;
 }
 
 .heart-bar {
